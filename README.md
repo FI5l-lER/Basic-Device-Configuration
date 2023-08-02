@@ -14,9 +14,9 @@
   </tr>
   <tr>
     <td>1.3.6</td>
-    <td><a href="">Configure SSH</a></td>
+    <td><a href="https://github.com/c1oud05/Basic-Device-Configuration/tree/main/Lab-1.3.6">Configure SSH</a></td>
     <td>100%</td>
-    <td>00:00</td>
+    <td>03:50</td>
   </tr>
   <tr>
     <td>1.4.7</td>
