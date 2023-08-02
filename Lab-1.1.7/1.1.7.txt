@@ -1,0 +1,55 @@
+Part 1:
+ Step 1:
+  d) Because its a new device and remote access hasn't been configured on it and you need to physically access the switch to set up the configurations to allow remote access
+
+ Step 2:
+  b) 28
+     0-4
+
+  c) Because there are no configurations saved to NVRAM
+
+  d) no
+     0060.2fde.172d
+     no
+
+  e) Vlan1 is administratively down, line protocol is down
+     Internet protocol processing disabled
+
+  f) Vlan1 is administratively down, the line protocol is down and the internet protocol processing is disabled
+
+  h) Vlan1 is up, line protocol is down
+     Internet protocol processing disabled
+
+  i) 16.3.2
+     cat3k_caa-universalk9.16.03.02.SPA.bin
+     00:60:2F:DE:17:2D
+
+  j) up
+     disabling the interface by using shutdown command or removing the cable
+     000c.8589.1806
+     Full-duplex, 100Mb/s
+
+  k) default
+     all ports
+     yes
+     enet(Ethernet)
+
+  l) cat3k_caa-universalk9.16.03.02.SPA.bin
+
+Part 2:
+ Step 1:
+  g) to enable the configurations
+     without it, the switch wont prompt for a password
+
+ Step 2:
+  
+Part 3:
+ Step 1:
+  b) 100000 Kbit
+     Up
+     Up
+
+Reflection Questions:
+ 1) To enable the use of telnet
+ 2) For security purposes
+ 3) Encrypt the passwords using service password-encryption command
