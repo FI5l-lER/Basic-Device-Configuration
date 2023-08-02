@@ -1,4 +1,4 @@
-# Basic-Device-Configuration
+# Basic Device Configuration
 <table>
   <tr>
     <th>Lab ID</td>
