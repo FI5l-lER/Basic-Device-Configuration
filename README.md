@@ -1,11 +1,11 @@
 # Basic-Device-Configuration
 <table>
-  <th>
-    <td>Lab ID</td>
-    <td>Lab Title</td>
-    <td>Completion Rate</td>
-    <td>Time Taken</td>
-  </th>
+  <tr>
+    <th>Lab ID</td>
+    <th>Lab Title</td>
+    <th>Completion Rate</td>
+    <th>Time Taken</td>
+  </tr>
   <tr>
     <td>1.1.7</td>
     <td>Basic Switch Configuration</td>
