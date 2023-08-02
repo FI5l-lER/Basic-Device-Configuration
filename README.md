@@ -1,4 +1,11 @@
 # Basic Device Configuration
+- Implementing basic switching configuration such as;
+  - Naming device
+  - Securing device
+  - Encrypting password
+  - Configuring remote access 
+
+# Labs
 <table>
   <tr>
     <th>Lab ID</td>
